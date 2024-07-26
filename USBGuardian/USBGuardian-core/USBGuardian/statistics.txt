@@ -1,0 +1,7 @@
+Number of devices scanned: 14
+Number of malwares detected: 7
+Number of files scanned: 0
+% of infected devices: 50%
+Average time of scan: 0 min 10 sec
+Number of infected devices: 7
+Total time of scan: 140.72299999999996
