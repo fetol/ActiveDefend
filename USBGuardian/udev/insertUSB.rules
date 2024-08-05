@@ -1,3 +1,0 @@
-#/etc/udev/rules.d/
-ACTION=="add", SUBSYSTEM=="block", ENV{SYSTEMD_WANTS}+="insertUSB.service"
-#reload config : sudo udevadm controle --reload
